@@ -1,6 +1,5 @@
 import {StyleSheet, View, Text, Button} from "react-native";
 import {NativeStackScreenProps} from "@react-navigation/native-stack";
-// import {RootStackParamList} from "@/app/(tabs)";
 import {useLayoutEffect} from "react";
 import {RootStackParamList} from "@/app/(tabs)/index_stack";
 
